@@ -9,3 +9,6 @@
 https://youtu.be/0RPbAIOgN0M
 
 Эффекты которые советуем включать: FXAA, MXAO, SSAO, FakeHDR, Zeal_RimLigth, qUINT_ssr, AmbientLight, Сепия, Ночной Режим.
+
+Discord Dev Server:
+https://discord.gg/pehxFG9nnB
